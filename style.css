@@ -20,6 +20,7 @@
       line-height: 1.65;
       padding: 20px 50px;
       display: flex;
+      
      
        }
        .main-column{
@@ -45,6 +46,7 @@
           padding: 20px;
           margin-bottom: 20px;
           flex: 1;
+          
       }
 
       .call-out:nth-child(1) {background-color: #c0dbe2;}
